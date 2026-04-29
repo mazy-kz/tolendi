@@ -1,27 +1,62 @@
-# Hi, I'm Tolendi 👋
+<h2 align="center">Hi, I'm Tolendi 👋</h2>
 
-I am a **Product Data Scientist** specializing in product analytics, experimentation, and statistical modeling. Currently pursuing an **MS in Business Analytics** at **UC Davis** (Dec 2026), I bridge the gap between rigorous machine learning and actionable product growth.
+<p align="center">
+  Data Analyst → Applied Data Science | Building real systems, not toy models
+</p>
 
-I build interpretable machine learning systems and design robust A/B tests that solve high-stakes business problems. My focus is on translating user telemetry and complex datasets into strategic decisions—whether that means routing LLM API calls for deterministic data matching, or predicting institutional insolvency under macroeconomic shocks.
-
-### What I'm Building 🚀
-* **Architecting Hybrid Data Systems:** Engineering matching engines that resolve 95% of records via deterministic Python algorithms and route complex edge cases to LLM APIs, eliminating manual workflows.
-* **Predictive Risk Modeling:** Developing calibrated classification pipelines (CatBoost, Logistic Regression) to simulate financial distress, achieving 75.3% top-5% precision for early-warning triage systems.
-* **Advanced Sports Analytics:** Building end-to-end ML pipelines (Lasso, PCA, KNN, Random Forest) to quantify market value gaps, isolate underpriced talent, and project future breakouts.
+<p align="center">
+  <a href="https://github.com/mazy-kz/Pet-projects">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tolendi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tolendi.tastybay@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/>
+  </a>
+</p>
 
 ---
 
-## Connect with Me
+## 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tolendi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mazy-kz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tolendi.tastybay@gmail.com)
+I’m a data analyst / applied ML builder focused on turning messy, real-world data into working systems.
+
+Currently pursuing an MS in Business Analytics at UC Davis (San Francisco), working across machine learning, causal inference, and experimentation. I’ve built a production-grade data matching engine for FDA records that automated a fully manual workflow using deterministic logic + LLM-based edge case handling.
+
+Previously, I worked as a Product Analyst, using behavioral data and A/B testing to improve funnels, increase NPS, and directly impact revenue.
 
 ---
 
-### Technical Toolkit 🛠️
+## 🛠 What I Build
 
-* **Core Stack:** Python (Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch), SQL, NoSQL.
-* **Analytics & Data Science:** A/B Testing & Experimentation, Causal Inference, Predictive Modeling (Regression, Time Series), Machine Learning (XGBoost, CatBoost, Neural Networks, PCA, KNN).
-* **Product & Business:** Product Analytics, Funnel Optimization, Telemetry Analysis, Cohort Analysis, User Segmentation.
-* **Deployment & Viz:** Streamlit, Power BI, Tableau.
+I focus on systems, not toy notebooks:
+
+- **Data matching + anomaly detection (FDA / UC Law)**  
+  Hybrid pipeline combining rule-based logic and LLMs to resolve records and surface discrepancies.
+
+- **Financial risk early-warning system**  
+  Built on 1.7M+ records with reconstructed missing data and calibrated classification models.
+
+- **Football scouting ML system ⚽**  
+  End-to-end pipeline using PCA, KNN, and regression to identify undervalued players and predict future value.
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages & Tools:** Python (Pandas, NumPy, scikit-learn), SQL, BigQuery, Streamlit  
+**ML:** Regression, Tree Models, PCA, KNN, basic deep learning  
+**Analytics:** A/B Testing, Funnel Analysis, Cohort Analysis
+
+---
+
+## 🚀 Direction
+
+Moving from analytics → applied data science / product data science.
+
+- Less dashboards, more systems  
+- Less reporting, more prediction & optimization  
+- Models tied to real product decisions
